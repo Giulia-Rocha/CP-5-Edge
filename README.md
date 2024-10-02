@@ -1,7 +1,7 @@
 # Smart-Lamp-IoT + DHT 22 🧠💡
 Uma entidade "Smart Lamp"  (ou "Lâmpada Inteligente") é um conceito dentro da plataforma FIWARE que representa uma lâmpada conectada, capaz de interagir com um ecossistema de IoT. Ela é modelada como uma entidade de dados que possui atributos e metadados associados que definem seu comportamento e características.
 
-E dessa vez com um elemento a amis, o DHT 22 para capturar a Umidade e Temperatura do ambiente.
+E dessa vez com um elemento a mais, o DHT 22 para capturar a Umidade e Temperatura do ambiente.
 
 # Descrição 📝
 O projeto executa a plataforma FIWARE como back-end da solução de monitoramento de vinheria (Smart Lamp). Além disso, utiliza a Azure ☁️ como serviço de nuvem para hospedar os servidores e componentes do FIWARE.
