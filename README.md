@@ -23,7 +23,7 @@ O projeto executa a plataforma FIWARE como back-end da solução de monitorament
 - Faça uma cópia do Projeto no [WOKWI](https://wokwi.com/projects/410480914974507009)
 - Configure as variáveis editáveis de acordo com os comentários no [Código Fonte](codigo-fonte.ino)
 ## 4° Rodar o script em Pyhton na VM para exibir o dashboard
-- Crie um arquivo em .py na VM e coloque este [código]()
+- Crie um arquivo em .py na VM e coloque este [código](dashboard.py)
 - Rode o código com o comando python3 nome_do_arquivo.py
 - obs: configure a porta 8050 para isto.
   
