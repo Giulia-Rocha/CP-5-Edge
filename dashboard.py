@@ -7,7 +7,7 @@ from datetime import datetime
 import pytz
 
 # Constantes para o endereço IP e porta do servidor de dados
-IP_ADDRESS = "52.137.83.133"
+IP_ADDRESS = "IP DA VM"
 PORT_STH = 8666
 DASH_HOST = "0.0.0.0"  # Define o host para "0.0.0.0", permitindo acesso de qualquer IP
 
